@@ -3,7 +3,7 @@ HISTSIZE=10000
 SAVEHIST=10000
 
 export ZSH_CONFIGURATION=~/.config/zsh
-export TASKRC=/home/sarvagya/.config/.taskrc
+export TASKRC=/home/sarvagya/.config/task/.taskrc
 
 # Theming section
 autoload -U colors && colors

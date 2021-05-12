@@ -1,0 +1,48 @@
+[Desktop Entry]
+DefaultProfile=Wayne.profile
+
+[General]
+Version=200
+ViewPropsTimestamp=2021,4,10,17,4,29.476
+
+[IconsMode]
+PreviewSize=48
+
+[KPropertiesDialog]
+eDP1 Height 1536x864=458
+eDP1 Width 1536x864=346
+
+[MainWindow]
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAACUvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAACUgAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAGAAAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawEAAAAAAAAGAAAAAJEBAAADAAAFRwAAAlIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP1 Height 1536x864=831
+eDP1 Height 1617x909=840
+eDP1 Height 1707x960=892
+eDP1 Height 1920x1080=1006
+eDP1 Width 1536x864=1536
+eDP1 Width 1617x909=1617
+eDP1 Width 1707x960=1707
+eDP1 Width 1920x1080=1920
+eDP1 Window-Maximized 1536x864=true
+eDP1 Window-Maximized 1617x909=true
+eDP1 XPosition 1536x864=0
+eDP1 XPosition 1617x909=0
+eDP1 XPosition 1707x960=0
+eDP1 XPosition 1920x1080=0
+eDP1 YPosition 1536x864=0
+eDP1 YPosition 1617x909=31
+eDP1 YPosition 1707x960=28
+eDP1 YPosition 1920x1080=29
+
+[Open-with settings]
+CompletionMode=1
+History=smpl,okul,kate,smp
+
+[Search]
+Location=Everywhere
+
+[SettingsDialog]
+eDP1 Height 1536x864=440
+eDP1 Width 1536x864=589
