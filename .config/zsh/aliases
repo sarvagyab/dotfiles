@@ -1,0 +1,12 @@
+alias rm='rm -I'
+alias mv='mv -i'
+alias cp='cp -i'
+alias df='df -h'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias free='free -m'
+alias gitu='git add . && git commit && git push'
+alias grep='grep --color=auto'
+alias ls='ls --color=auto --group-directories-first'
+
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
