@@ -4,6 +4,8 @@ SAVEHIST=10000
 
 export ZSH_CONFIGURATION=~/.config/zsh
 export TASKRC=/home/sarvagya/.config/task/.taskrc
+export EDITOR=vim
+export TERMINAL=alacritty
 
 # Theming section
 autoload -U colors && colors
@@ -86,5 +88,6 @@ zmodload zsh/terminfo
 # Set keybindings
 . $ZSH_CONFIGURATION/keybindings
 
-
 eval "$(starship init zsh)"
+
+task

@@ -13,6 +13,9 @@
 # Files
 data.location=~/.task
 
+# task show verbose to see details/ override controls whether the the message of overriden is shown/ to be fixed in 2.6.0
+verbose=blank,header,footnote,label,new-id,affected,edit,special,project,sync,unwait,recur
+
 # Color theme (uncomment one to use)
 #include /usr/share/doc/task/rc/light-16.theme
 #include /usr/share/doc/task/rc/light-256.theme
