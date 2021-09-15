@@ -5,7 +5,7 @@ SAVEHIST=10000
 export ZSH_CONFIGURATION=~/.config/zsh
 export TASKRC=/home/sarvagya/.config/task/.taskrc
 export EDITOR=vim
-export TERMINAL=alacritty
+export VIMINIT="source ~/.config/vim/vimrc"
 
 # Theming section
 autoload -U colors && colors
