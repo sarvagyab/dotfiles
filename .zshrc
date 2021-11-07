@@ -3,7 +3,7 @@ HISTSIZE=10000
 SAVEHIST=10000
 
 export ZSH_CONFIGURATION=~/.config/zsh
-export TASKRC=/home/sarvagya/.config/task/.taskrc
+# export TASKRC=/home/sarvagya/.config/task/.taskrc
 export EDITOR=vim
 export VIMINIT="source ~/.config/vim/vimrc"
 
@@ -89,5 +89,6 @@ zmodload zsh/terminfo
 . $ZSH_CONFIGURATION/keybindings
 
 eval "$(starship init zsh)"
+eval "$(zoxide init zsh)"
 
 task
